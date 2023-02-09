@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+2,Danielle James,TX,4.45,Carpet,1511,2.25,2.10,3399.75,3173.10,292.49,6865.34

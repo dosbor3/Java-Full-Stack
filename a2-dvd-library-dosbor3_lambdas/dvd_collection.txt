@@ -1,0 +1,8 @@
+SHREK::Family::5.0::2005-06-26::Mike Myers::DreamWorks::Excellent Movie!::
+MALCOLM X::Drama::10.0::1992-01-01::Spike Lee::Universal::9.5::
+AMERICAN SKIN::Drama::9.5::2019-01-01::Spike Lee::Universal::9.5::
+SOME MOVIE::some genre::rating::2003-11-20::Cece Tyler::Marvel::Great movie!::
+DO THE RIGHT THANG::Drama::10.0::1989-09-22::Spike Lee::Universal::10.0::
+THE GODFATHER::Drama::9.2::1972-03-25::Francis Ford Coppla::Paramount::8.5::
+WAKANDA FOREVER::Action::5.0::2022-10-26::Ryan Coogler::Marvel::I can't wait to see it!::
+THE SAWSHANK REDEMPTION::Drama::9.2::1994-01-01::Frank Darabont::Fox::5.3::

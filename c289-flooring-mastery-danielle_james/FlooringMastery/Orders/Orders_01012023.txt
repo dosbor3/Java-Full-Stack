@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+6,Dolly Parton,IA,10.00,Glass,1511,10.00,20.00,15110.00,30220.00,4533.00,49863.00
+7,Josh Smith,IA,10.00,Glass,100,10.00,20.00,1000.00,2000.00,300.00,3300.00

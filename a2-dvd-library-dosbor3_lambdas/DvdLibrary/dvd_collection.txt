@@ -1,0 +1,3 @@
+SHREK::Family::5.0::2005-06-26::Mike Myers::DreamWorks::Excellent Movie!::
+SOME MOVIE::some genre::rating::2003-11-20::Cece Tyler::Marvel::Great movie!::
+WAKANDA FOREVER::Action::5.0::2022-10-26::Ryan Coogler::Marvel::I can't wait to see it!::

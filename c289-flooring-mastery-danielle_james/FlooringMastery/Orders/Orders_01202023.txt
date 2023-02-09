@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Frank Jr.,CA,25.01,Tile,293,3.50,4.15,1025.50,1215.95,560.59,2802.04
