@@ -1,0 +1,20 @@
+C1::Sprite::1.75::22
+B1::Doritos::1.75::8
+C2::Coke Z::1.85::19
+A1::Snickers::0.95::12
+B2::Fritos::0.75::9
+C3::Gatorade::1.50::25
+A2::Poptart::1.25::15
+B3::Chips::1.00::11
+C4::Powerade::1.25::28
+A3::Airhead::1.25::18
+B4::Pickle::0.50::13
+C5::Water::1.00::11
+B5::Cheetos::0.75::21
+A5::Kit Kat::0.75::12
+B6::Ruffles::0.95::22
+A6::Hershey::1.50::24
+B7::Takis::1.55::2
+A7::Danish::1.75::20
+B8::Popcorn::0.65::1
+A8::Mound::1.75::16
